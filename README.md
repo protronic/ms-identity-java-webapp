@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Azure-Samples/ms-identity-java-webapp) 
+
 # A group of web authentication samples using OpenId Connect and the Microsoft Identity platform
 
 ## About these samples
